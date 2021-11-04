@@ -1,0 +1,26 @@
+{
+  "name": "test-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heyveryouaire/test-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heyveryouaire/test-ci/issues"
+  },
+  "homepage": "https://github.com/Heyveryouaire/test-ci#readme",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
